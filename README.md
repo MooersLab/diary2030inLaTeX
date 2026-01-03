@@ -1,12 +1,12 @@
-![Version](https://img.shields.io/static/v1?label=diary2024inLaTeX&message=0.1&color=brightcolor)
+![Version](https://img.shields.io/static/v1?label=diary2030inLaTeX&message=0.1&color=brightcolor)
 [![License: MIT](https://img.shields.io/badge/License-MIT-blue.svg)](https://opensource.org/licenses/MIT)
 
 
-# Diary for 2029 in LaTeX
+# Diary for 2030 in LaTeX
 
 ## Purpose 
 
-Compile a 365-page diary for 2029, one page per day.
+Compile a 365-page diary for 2030, one page per day.
 Each month is a chapter, and each day is a section in a chapter.
 
 ## Compile locally with texlive
